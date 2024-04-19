@@ -10,6 +10,8 @@ Coming soon
 * HighBridge Audio publisher [listing](https://highbridgeaudio.com/mrrobotredwheelbarrow.html)
 * Blackstone Wholesale [listing](https://www.blackstonewholesale.com/mr-robot-red-wheelbarrow?sp=261536)
 
-## Note
+### Note
 * Links are not financial endorsement, only suggestions to official channels for purchase.
 
+## License
+Coming soon (probably a Creative Commons license)
