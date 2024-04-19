@@ -1,4 +1,4 @@
-# Transcript of _eps1.91_redwheelbarr0w.txt_ from _Mr. Robot_ 
+# _Mr. Robot_: _eps1.91_redwheelbarr0w.txt_ Transcript
 
 Coming soon
 
