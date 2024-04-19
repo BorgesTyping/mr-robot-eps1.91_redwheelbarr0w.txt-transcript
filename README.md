@@ -2,6 +2,11 @@
 
 Coming soon
 
+## Software used (procedurally, not as software dependencies)
+* asciinema/asciinema
+* ggerganov/whisper.cpp
+* vim/vim
+
 ## Publishing info
 ### Book
 * Original publisher [listing](https://www.abramsbooks.com/product/mr-robot-red-wheelbarrow_9781419724428/) from Abrams
