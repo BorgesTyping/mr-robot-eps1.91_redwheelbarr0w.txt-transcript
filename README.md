@@ -3,9 +3,9 @@
 Coming soon
 
 ## Software used (procedurally, not as software dependencies)
-* asciinema/asciinema
-* ggerganov/whisper.cpp
-* vim/vim
+* [`asciinema`](https://asciinema.org/)
+* [`whisper.cpp`](https://github.com/ggerganov/whisper.cpp), or Whisper CPP for human readability
+* [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor))
 
 ## Publishing info
 ### Book
